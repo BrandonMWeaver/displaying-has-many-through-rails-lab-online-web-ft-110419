@@ -1,7 +1,7 @@
 require 'rails_helper'
 
-Specs in this file have access to a helper object that includes
-the PatientsHelper. For example:
+#Specs in this file have access to a helper object that includes
+#the PatientsHelper. For example:
 
 describe PatientsHelper do
   describe "string concat" do
